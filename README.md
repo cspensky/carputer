@@ -15,3 +15,6 @@ Code and resources for my in-car computer.
 
 # Bluetooth Libraries
  - [Bleno](https://github.com/sandeepmistry/bleno)
+
+# Parts for the truck
+ - [Steering Wheel](http://www.ebay.com/itm/2013-2015-Dodge-ram-heated-black-leather-steering-wheel-with-audio-controls-071-/131523529920?hash=item1e9f69ccc0&vxp=mtr)
