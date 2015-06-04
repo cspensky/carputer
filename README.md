@@ -21,3 +21,6 @@ Code and resources for my in-car computer.
 
 # FM Radio
  - [FreqSho](https://learn.adafruit.com/freq-show-raspberry-pi-rtl-sdr-scanner/installation)
+
+# Parts
+ - [Touch Screen (5")](http://www.dx.com/en/p/5-inch-lcd-touch-display-w-hdmi-for-raspberry-pi-2-model-b-a-b-blue-379294?tc=USD&gclid=Cj0KEQjw7r-rBRDE_dXtgLz9-e4BEiQATeKG7J4JKkoKHZbLM0zvYoV013EjoXeLbhtfCNQtNg74o4oaAgU88P8HAQ#.VXBxQGRVhBc)
