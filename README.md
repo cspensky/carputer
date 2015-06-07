@@ -14,6 +14,9 @@ Code and resources for my in-car computer.
 ## DLNA
  - http://rootprompt.apatsch.net/2013/03/07/raspberry-pi-network-audio-player-pulseaudio-dlna-and-bluetooth-a2dp-part-2-dlna/
 
+## Bluetooth references:
+ - [Bluetooth made easy](http://www.funtoo.org/Bluetooth_made_easy)
+
 # Bluetooth Libraries
  - [Bleno](https://github.com/sandeepmistry/bleno)
 
