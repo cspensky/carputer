@@ -31,3 +31,6 @@ Code and resources for my in-car computer.
  
 # Physical Buttons, Switches, and Knobs
  - [Volume Knob](http://www.bobrathbone.com/raspberrypi_rotary.htm)
+
+# Power Managemetn 
+ - [Sleepy Pi](http://spellfoundry.com/products/sleepy-pi/)
