@@ -34,3 +34,6 @@ Code and resources for my in-car computer.
 
 # Power Managemetn 
  - [Sleepy Pi](http://spellfoundry.com/products/sleepy-pi/)
+
+# Related Projects
+ - [iCarus](http://i-carus.com/)
